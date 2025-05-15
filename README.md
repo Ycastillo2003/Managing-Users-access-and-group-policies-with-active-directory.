@@ -35,3 +35,7 @@ This lab outlines how to use various features in Active Directory to centrally m
 ![image](https://github.com/user-attachments/assets/15c0c796-7775-4e8c-bfe2-e7ba4037c9a1)
 
 - Lab Infrastructure Overview 
+
+![image](https://github.com/user-attachments/assets/c65c202c-9ea3-4e44-8517-62b7305fda6f)
+
+- deployment of azure virtual machines to simulate domnain controller and client.
