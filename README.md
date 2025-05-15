@@ -23,7 +23,7 @@ This lab outlines how to use various features in Active Directory to centrally m
 
 <h2>List of Prerequisites steps</h2>
 
-- Active Directory Lab Architecture Overiview 
+
 - Preparing AD infrastructure 
 - Deploying Active Directory
 - Creating Users With Powershell
@@ -32,4 +32,6 @@ This lab outlines how to use various features in Active Directory to centrally m
 
 <h2>Installation Steps</h2>
 
+![image](https://github.com/user-attachments/assets/15c0c796-7775-4e8c-bfe2-e7ba4037c9a1)
 
+- Lab Infrastructure Overview 
