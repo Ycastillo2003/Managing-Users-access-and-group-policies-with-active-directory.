@@ -13,3 +13,8 @@ This lab outlines how use the various features found in Active Directory that al
 - Remote Desktop.
 - Microsoft Powershell.
 - Powershell Generate Names and Create Users script.
+
+
+<h2>Operating Systems Used </h2>
+
+-Windows Server 2022 Datacenter: Azure Edition
