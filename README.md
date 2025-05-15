@@ -21,7 +21,7 @@ This lab outlines how to use various features in Active Directory to centrally m
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2>List of Prerequisites steps</h2>
 
 - Active Directory Lab Architecture Overiview 
 - Preparing AD infrastructure 
