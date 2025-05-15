@@ -50,4 +50,4 @@ This lab outlines how to use various features in Active Directory to centrally m
 
 ![image](https://github.com/user-attachments/assets/bc7074cc-6e14-49d8-abe9-c8ad7c8b9025)
 
-- Pinging Dc-1(Domain controller) privaye ip from client-1 Virtual machine on powershell.
+- Pinging Dc-1(Domain controller) private ip from client-1 Virtual machine on powershell.
