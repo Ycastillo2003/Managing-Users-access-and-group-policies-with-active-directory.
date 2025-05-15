@@ -46,4 +46,4 @@ This lab outlines how to use various features in Active Directory to centrally m
 
 ![image](https://github.com/user-attachments/assets/155a385c-fd35-44dd-972d-5f46cceb8f40)
 
-- changing clients-1 dns server 
+- changing clients-1 dns server to allow it to join the Domain
