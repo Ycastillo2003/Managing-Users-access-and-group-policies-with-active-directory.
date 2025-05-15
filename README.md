@@ -9,5 +9,7 @@ This lab outlines how use the various features found in Active Directory that al
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Microsoft Azure (Virtual Machines/Compute).
+- Remote Desktop.
+- Microsoft Powershell.
+- Powershell Generate Names and Create Users script.
