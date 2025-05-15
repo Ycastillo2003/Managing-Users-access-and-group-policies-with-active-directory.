@@ -3,3 +3,4 @@
 # Managing Users access and group policies with active directory.
 
 <h1>Active Directory - Prerequisites and Installation</h1>
+this lab outlines how use the various features found in Active Directory.
