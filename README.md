@@ -50,4 +50,4 @@ This lab outlines how to use various features in Active Directory to centrally m
 
 ![image](https://github.com/user-attachments/assets/72b85307-b32d-4f3a-b06f-cc263b2cc6ce)
 
-- Pinging Dc-1(Domain controller) private ip from client-1 Virtual machine on powershell and using the ipconfig /all command to ensure clients-1 dns servcer has changed.
+- Pinging Dc-1(Domain controller) private ip from client-1 Virtual machine on powershell and using the ipconfig /all command to ensure clients-1 dns server has changed.
