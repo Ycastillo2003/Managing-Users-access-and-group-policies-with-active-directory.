@@ -31,4 +31,6 @@ This lab outlines how use the various features found in Active Directory that al
 
 
 <h2>Installation Steps</h2>
+
+
 ![image](https://github.com/user-attachments/assets/6930702f-7c60-4b6a-b361-745eedee3732)
