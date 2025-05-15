@@ -42,4 +42,8 @@ This lab outlines how to use various features in Active Directory to centrally m
 
 ![image](https://github.com/user-attachments/assets/58114f46-5efa-401b-a306-975f5ca806ab)
 
-- connecting to our Domian controller and turning off private profile firewall
+- connecting to our Domian controller and turning off private and public profile firewall
+
+![image](https://github.com/user-attachments/assets/155a385c-fd35-44dd-972d-5f46cceb8f40)
+
+- changing clients-1 dns server 
