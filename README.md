@@ -38,4 +38,8 @@ This lab outlines how to use various features in Active Directory to centrally m
 
 ![image](https://github.com/user-attachments/assets/c65c202c-9ea3-4e44-8517-62b7305fda6f)
 
-- deployment of azure virtual machines to simulate domnain controller and client.
+- deployment of azure virtual machines to simulate domain controller and client.
+
+![image](https://github.com/user-attachments/assets/58114f46-5efa-401b-a306-975f5ca806ab)
+
+- connecting to our Domian controller and turning off private profile firewall
