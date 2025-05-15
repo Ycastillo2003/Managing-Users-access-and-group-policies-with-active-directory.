@@ -4,3 +4,7 @@
 
 <h1>Active Directory - Prerequisites and Installation</h1>
 This lab outlines how use the various features found in Active Directory that allow user management such as access,lockout polocies and more.
+
+
+
+<h2>Environments and Technologies Used</h2>
