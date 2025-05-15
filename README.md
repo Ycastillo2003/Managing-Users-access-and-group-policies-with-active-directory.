@@ -48,6 +48,6 @@ This lab outlines how to use various features in Active Directory to centrally m
 
 - Changing clients-1 dns server to allow it to join the Domain and restarting client-1 virtual machine to make the new dns setting become active.
 
-![image](https://github.com/user-attachments/assets/bc7074cc-6e14-49d8-abe9-c8ad7c8b9025)
+![image](https://github.com/user-attachments/assets/72b85307-b32d-4f3a-b06f-cc263b2cc6ce)
 
-- Pinging Dc-1(Domain controller) private ip from client-1 Virtual machine on powershell.
+- Pinging Dc-1(Domain controller) private ip from client-1 Virtual machine on powershell and using the ipconfig /all command to ensure clients-1 dns servcer has changed.
