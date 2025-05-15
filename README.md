@@ -38,12 +38,12 @@ This lab outlines how to use various features in Active Directory to centrally m
 
 ![image](https://github.com/user-attachments/assets/c65c202c-9ea3-4e44-8517-62b7305fda6f)
 
-- deployment of azure virtual machines to simulate domain controller and client.
+- Ceployment of azure virtual machines to simulate domain controller and client.
 
 ![image](https://github.com/user-attachments/assets/58114f46-5efa-401b-a306-975f5ca806ab)
 
-- connecting to our Domian controller and turning off private and public profile firewall.
+- Connecting to our Dc-1 (Domian controller) and turning off private and public profile firewall.
 
 ![image](https://github.com/user-attachments/assets/155a385c-fd35-44dd-972d-5f46cceb8f40)
 
-- changing clients-1 dns server to allow it to join the Domain and restarting client-1 virtual machine to make the new dns setting become active.
+- Changing clients-1 dns server to allow it to join the Domain and restarting client-1 virtual machine to make the new dns setting become active.
