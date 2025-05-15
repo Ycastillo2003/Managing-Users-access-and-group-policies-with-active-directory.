@@ -33,6 +33,3 @@ This lab outlines how to use various features in Active Directory to centrally m
 <h2>Installation Steps</h2>
 
 
-![image](https://github.com/user-attachments/assets/484105e9-177d-4fc4-a9e5-dca04ec14f0a)
-
-- Base overview of the lab
