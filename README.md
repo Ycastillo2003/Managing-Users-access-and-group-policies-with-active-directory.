@@ -2,4 +2,4 @@
 
 # Managing Users access and group policies with active directory.
 
-<h1>osTicket - Prerequisites and Installation</h1>
+<h1>Active Directory Lab - Prerequisites and Installation</h1>
