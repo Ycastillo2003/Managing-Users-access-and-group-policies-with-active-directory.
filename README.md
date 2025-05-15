@@ -16,5 +16,4 @@ This lab outlines how use the various features found in Active Directory that al
 
 
 <h2>Operating Systems Used </h2>
-
 -Windows Server 2022 Datacenter: Azure Edition
