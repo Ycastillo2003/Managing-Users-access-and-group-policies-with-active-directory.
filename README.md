@@ -3,7 +3,7 @@
 # Managing Users access and group policies with active directory.
 
 <h1>Active Directory - Prerequisites and Installation</h1>
-This lab outlines how use the various features found in Active Directory that allow user management such as access,lockout policies and more.
+This lab outlines how use the various features found in Active Directory to centrally managa thousands of user accounnts in a single place ( accounts,passwords, Permissions, etc.
 
 
 
