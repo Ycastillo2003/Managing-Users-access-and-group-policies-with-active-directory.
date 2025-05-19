@@ -58,4 +58,4 @@ This lab outlines how to use various features in Active Directory to centrally m
 
 ![image](https://github.com/user-attachments/assets/718d379b-f7ec-4757-8835-418ff2852e60)
 
-- logging back into to Dc-1(Domain controller) as domain user. 
+- logging back into to Dc-1(Domain controller) as a domain user. 
