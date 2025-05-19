@@ -100,5 +100,9 @@ This lab outlines how to use various features in Active Directory to centrally m
 
 ![image](https://github.com/user-attachments/assets/c0f82ac7-f05d-4ddb-95d3-8f9c98264557)    ![image](https://github.com/user-attachments/assets/65c4ce5a-8a54-4d2f-89f8-08e567b22669)
 
-
 - Verifyng that my lock out poilicy has taken effect and unlocking the account for the user as well.
+
+
+![image](https://github.com/user-attachments/assets/b6494099-fa8a-4ca7-a8f2-e76e69a8ac1a)
+
+- Logging into the account and verifying that the account has been unlocked.
