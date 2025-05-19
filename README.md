@@ -63,3 +63,8 @@ This lab outlines how to use various features in Active Directory to centrally m
 ![image](https://github.com/user-attachments/assets/a25efc35-9fcc-4057-a1c1-fdc42bd4d398)
 
 - Creating employees and admin organizational groups and adding a admin a user (Jane Doe).
+
+![image](https://github.com/user-attachments/assets/81d99887-bcf2-4886-b145-f34aaadfad7d)
+
+- Adding Domain user (Jane Doe) to the domain admins security group
+
