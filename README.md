@@ -55,3 +55,7 @@ This lab outlines how to use various features in Active Directory to centrally m
 ![image](https://github.com/user-attachments/assets/75c2fcd5-fe85-41eb-9eef-cd234fc3f830)    ![image](https://github.com/user-attachments/assets/f66001b0-58c0-4a02-bc63-e547673d690c)
 
 - Installing active Domain on Dc-1(Domain controller) and promoting Dc-1(Domain controller) to promoting it to domain controller.
+
+![image](https://github.com/user-attachments/assets/718d379b-f7ec-4757-8835-418ff2852e60)
+
+- logging back into to Dc-1(Domain controller) as domain user. 
