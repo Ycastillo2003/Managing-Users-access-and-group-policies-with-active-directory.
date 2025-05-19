@@ -92,3 +92,8 @@ This lab outlines how to use various features in Active Directory to centrally m
 ![image](https://github.com/user-attachments/assets/a2619e23-b0be-4ac2-93fa-961c58654759)
 
 - Configuring an account lockout poilicy for our domain.
+
+![image](https://github.com/user-attachments/assets/f3dbc39f-86bc-4dda-a7b2-b302d6fc0d5e)
+
+- Forcing the computer policy update to happen immidiately.
+
