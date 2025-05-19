@@ -97,3 +97,8 @@ This lab outlines how to use various features in Active Directory to centrally m
 
 - Forcing the computer policy update to happen immidiately.
 
+
+![image](https://github.com/user-attachments/assets/c0f82ac7-f05d-4ddb-95d3-8f9c98264557)    ![image](https://github.com/user-attachments/assets/65c4ce5a-8a54-4d2f-89f8-08e567b22669)
+
+
+- Verifyng that my lock out poilicy has taken effect and ulocking the account for the user as well.
