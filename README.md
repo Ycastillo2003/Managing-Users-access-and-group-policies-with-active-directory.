@@ -68,3 +68,7 @@ This lab outlines how to use various features in Active Directory to centrally m
 
 - Adding Domain user (Jane Doe) to the domain admins security group
 
+![image](https://github.com/user-attachments/assets/c7dfcce6-27a1-4f57-a5f1-9a27c9589249)
+
+- Adding client-1 to my domain.
+
