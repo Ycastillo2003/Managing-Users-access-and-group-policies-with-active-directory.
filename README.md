@@ -87,3 +87,8 @@ This lab outlines how to use various features in Active Directory to centrally m
 ![image](https://github.com/user-attachments/assets/c8a8faa0-9505-405a-b9d9-d153e1fd919c)
 
 - Logging into client-1 as one of our randomly generated users.
+
+
+![image](https://github.com/user-attachments/assets/a2619e23-b0be-4ac2-93fa-961c58654759)
+
+- Configuring an account lockout poilicy for our domain.
