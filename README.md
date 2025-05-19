@@ -75,3 +75,7 @@ This lab outlines how to use various features in Active Directory to centrally m
 ![image](https://github.com/user-attachments/assets/2fa4f754-b807-4c86-b5e6-bc9c5218481c)
 
 - Logging back in to client-1 as Jane_doe.
+
+![image](https://github.com/user-attachments/assets/8c0cf078-50f2-4424-888c-09752567f883)
+
+- giving domain users remote desktop access to this pc.
