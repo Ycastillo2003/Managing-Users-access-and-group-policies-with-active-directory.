@@ -106,3 +106,8 @@ This lab outlines how to use various features in Active Directory to centrally m
 ![image](https://github.com/user-attachments/assets/b6494099-fa8a-4ca7-a8f2-e76e69a8ac1a)
 
 - Logging into the account and verifying that the account has been unlocked.
+
+
+![image](https://github.com/user-attachments/assets/42b4e3ac-740d-427d-8ec0-37e2300c5609)
+
+- Scannings logs as an admin to see user logon activity.
