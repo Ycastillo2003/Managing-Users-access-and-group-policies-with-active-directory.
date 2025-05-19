@@ -72,3 +72,6 @@ This lab outlines how to use various features in Active Directory to centrally m
 
 - Adding client-1 to my domain.
 
+![image](https://github.com/user-attachments/assets/2fa4f754-b807-4c86-b5e6-bc9c5218481c)
+
+- Logging back in to client-1 as Jane_doe.
