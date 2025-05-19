@@ -80,6 +80,7 @@ This lab outlines how to use various features in Active Directory to centrally m
 
 - Giving domain users remote desktop access to this Client-1.
 
-![image](https://github.com/user-attachments/assets/f3eeb067-69fa-4a5f-a8ec-2e17cfe45611)
+
+![image](https://github.com/user-attachments/assets/e74c9449-8705-4432-908d-860787b84c89)
 
 - Using Powershell script to generate users for our domain.
