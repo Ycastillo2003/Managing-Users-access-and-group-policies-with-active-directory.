@@ -62,4 +62,4 @@ This lab outlines how to use various features in Active Directory to centrally m
 
 ![image](https://github.com/user-attachments/assets/a25efc35-9fcc-4057-a1c1-fdc42bd4d398)
 
-- Creating employees and admin organizational groups and adding a admin user.
+- Creating employees and admin organizational groups and adding a admin a user (Jane Doe).
